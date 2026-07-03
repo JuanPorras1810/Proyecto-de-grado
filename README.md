@@ -17,3 +17,6 @@ npm install
 Para compilar los archivos de TypeScript/JavaScript y levantar la interfaz de desarrollo, ejecuta en la terminal:
 ```bash
 npm run dev
+```
+### Link mocap:
+https://sistema-de-contact-center-sena-778925510450.us-east1.run.app
