@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Contact Center SENA",
+  "description": "Sistema de gestión operativa de Contact Center con base de datos contactSena, roles de Agente y Supervisor, campañas, tipificación e indicadores en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
